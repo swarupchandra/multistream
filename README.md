@@ -11,4 +11,4 @@ The problem is to predict the class label data on target stream using labeled da
 
 # Execution
 
-$ python multistream.py <dataset name>
+$ python multistream.py <dataset_name>
